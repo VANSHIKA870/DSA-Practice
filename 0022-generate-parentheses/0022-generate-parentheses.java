@@ -1,8 +1,9 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        
+        int open=0;
+        int close=0;
         String curr="";
-        solve(curr,n);
+        solve(curr,n,open,close);
         return res;
 
     }
@@ -23,19 +24,21 @@ class Solution {
         }   
         List<String> res=new ArrayList<>();
     
-    void solve(String curr ,int n){
+    void solve(String curr ,int n,int open ,int close){
         if(curr.length()==2*n){
-            if(isvalid(curr)){
-                res.add(curr);
-            }
-            return;
+            res.add(curr);
+            return ;
         }
-        
-        solve(curr+'(', n);
-        
+            if(open<n){
+                solve(curr+'(', n,open+1,close);
 
-        
-        solve(curr+')',n);
+            }
+            if(close<open){
+                solve(curr+')', n,open,close+1);
+
+            }
+            
+    
         
     }
 }
