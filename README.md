@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
