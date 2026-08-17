@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
@@ -37,9 +38,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
