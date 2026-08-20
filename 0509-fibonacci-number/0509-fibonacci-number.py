@@ -4,10 +4,20 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        if n==0:
-            return 0
-        if n==1:
-            return 1
-        return self.fib(n-1)+self.fib(n-2)   
-       
+        dp=[0]*(n+1)
+        def fibo(dp,n) :
+            if n<2:
+                return n
+            if dp[n]!=0:
+                return dp[n]
+
+            dp[n]=fibo(dp,n-1)+fibo(dp,n-2)
+
+            return dp[n]
+
+        return fibo(dp,n)  
+                 
+    
+
+    
         
