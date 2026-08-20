@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0344-reverse-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
