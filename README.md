@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0344-reverse-string) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
