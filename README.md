@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
