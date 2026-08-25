@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0344-reverse-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1796-second-largest-digit-in-a-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
