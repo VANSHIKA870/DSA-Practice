@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0046-permutations) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
