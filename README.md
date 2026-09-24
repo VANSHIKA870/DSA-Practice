@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Database
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -121,4 +124,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
