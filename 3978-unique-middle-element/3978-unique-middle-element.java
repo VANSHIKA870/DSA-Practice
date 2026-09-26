@@ -1,15 +1,15 @@
 class Solution {
     public boolean isMiddleElementUnique(int[] nums) {
         int mid=nums.length/2;
-        int count=0;
+        Set<Integer>set=new HashSet<>();
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==nums[mid]){
-                count++;
+            if(i!=mid){
+                set.add(nums[i]);
             }
         }
 
 
-        return count==1;
+        return !set.contains(nums[mid]);
         
         
     }
