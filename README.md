@@ -80,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
