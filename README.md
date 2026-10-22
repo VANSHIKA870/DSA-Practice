@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0279-perfect-squares](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [1512-number-of-good-pairs](https://github.com/VANSHIKA870/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
