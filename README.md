@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0344-reverse-string) |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
