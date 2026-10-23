@@ -5,25 +5,20 @@ class Solution {
             return 0;
         }
         int max=1;
-        for(int i=0;i<n;i++){
-            int len=1;
-                int prevdiff=0;
-            for(int j=i+1;j<n;j++){
-                 int diff=nums[j]-nums[j-1];
-                if(diff==0){
-                    continue;
-                }
-                if((prevdiff==0)||(prevdiff>0 && diff<0)
-                ||(prevdiff<0 && diff>0)){
-                    len++;
-                    prevdiff=diff;
+        int up=1;
+        int down=1;
+        for(int i=1;i<n;i++){
+            if(nums[i]>nums[i-1]){
+                up=down+1;
+            }else if(nums[i]==nums[i-1]){
+                continue;
 
-                }
-                
-                max=Math.max(len,max);
+            }else{
+                down=up+1;
             }
+           
         }
-        return max;
+        return Math.max(up,down);
         
     }
 }
