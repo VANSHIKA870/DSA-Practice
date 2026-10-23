@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0279-perfect-squares](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0279-perfect-squares) |
+| [0376-wiggle-subsequence](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0376-wiggle-subsequence) |
 | [0509-fibonacci-number](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0376-wiggle-subsequence](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0376-wiggle-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0912-sort-an-array) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0279-perfect-squares) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/VANSHIKA870/DSA-Practice/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
